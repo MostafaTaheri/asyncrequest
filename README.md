@@ -5,6 +5,7 @@ Use asynchronous request via aiohttp library in python.
 ## Requirements
 
 asyncio
+
 aiohttp
 
 ## Usage
